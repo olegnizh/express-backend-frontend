@@ -1,6 +1,9 @@
-# app1
-## RESTful API with Node.js, Express, and Postgres
-This template should help get you started developing with Vue 3 in Vite.
+# express backend frontend javascript libs
+
+## 1. backend - RESTful API with Node.js, Express, and Postgres
+## 2. frontend - template Vue3
+
+Этот шаблон был сделан на основе шаблона создания разработки с Vue 3
 
 ## Recommended IDE Setup
 
@@ -10,15 +13,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
-
-```sh
-npm install
-```
-
-## Database postgresql
-
-``` postgresql: postgres, admin
+## Database postgresql - login postgres, pw admin
 
 ```sql
 CREATE TABLE users (
