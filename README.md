@@ -32,8 +32,11 @@ INSERT INTO users (name, email)
 git clone https://github.com/olegnizh/express-backend-frontend.git
 cd express-backend-frontend
 npm install
-node index.js
 ```
+## run RESTful API with Node.js, Express, and Postgres
+
+- node index.js
+
 ## curl commands for postgres api
 
 - GET: `curl http://localhost:3000/users`
